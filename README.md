@@ -6,3 +6,5 @@ Things this app will do:
 Things this app WILL NOT do:
 
 
+SUMMARY of things:
+
